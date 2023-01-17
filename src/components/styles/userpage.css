@@ -1,0 +1,62 @@
+@keyframes giro {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.data_container {
+  width: 80%;
+  height: 80%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 35% auto;
+  gap: 10px;
+  border-radius: .5rem;
+  position: relative;
+}
+.userdata_container {
+  display: grid;
+  grid-template-rows: 63% auto;
+  row-gap: 10px;
+}
+.userdata_container div, .championsdata_container {
+  background-color: var(--purple);
+  border-radius: .5rem ;
+}
+.loading {
+  width: 100%;
+  height: 100%;
+  background-color: var(--purple);
+  position: absolute;
+  z-index: 20;
+  left: 0;
+  top: 0;
+  display: grid;
+  place-content: center;
+}
+.spinner {
+  height: 2rem;
+  width: 2rem;
+  border-radius: 50%;
+  border: 4px solid var(--ghostwhite);
+  border-top-color: blue;
+  animation: giro 2s linear infinite;
+}
+
+@media (max-width: 800px) {
+  .data_container {
+    grid-template-columns: auto;
+    grid-template-rows: auto auto;
+  }
+  .userdata_container {
+    grid-template-columns: auto auto;
+    grid-template-rows: auto;
+    column-gap: 10px;
+  }  
+  .league_data {
+    height: 100%;
+  }
+}

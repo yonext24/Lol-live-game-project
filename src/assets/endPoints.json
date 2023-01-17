@@ -1,0 +1,23 @@
+{
+    "protocol":"https://",
+    "region": [
+        "la1.api.riotgames.com",
+        "la2.api.riotgames.com"
+        ],
+    "languages": {"english": "en_US", "spanish": "es_AR"},
+    "endpoints": {
+        "summoner": "/lol/summoner/v4/summoners/by-name/",
+        "championMastery": "/lol/champion-mastery/v4/champion-masteries/by-summoner/",
+        "league" : "/lol/league/v4/entries/by-summoner/",
+        "activeGame" : "/lol/spectator/v4/active-games/by-summoner/"
+    },
+    "staticUrl":
+    {
+        "allChamps": "http://ddragon.leagueoflegends.com/cdn/12.23.1/data/en_US/champion.json",
+        "specificChamp": "http://ddragon.leagueoflegends.com/cdn/12.23.1/data/en_US/champion/",
+        "splashChamp" :"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg",
+        "iconChamp": "http://ddragon.leagueoflegends.com/cdn/12.23.1/img/champion/Aatrox.png",
+        "profileIcon": "http://ddragon.leagueoflegends.com/cdn/12.23.1/img/profileicon/685.png",
+        "featuredGames": "/lol/spectator/v4/featured-games"
+    }
+}

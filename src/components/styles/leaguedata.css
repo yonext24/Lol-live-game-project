@@ -1,0 +1,80 @@
+.league_data {
+  color: white;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1.3rem;
+}
+.selector_container {
+  width: max-content;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: .25rem;
+  padding-bottom: .25rem;
+  display: flex;
+  column-gap: .5rem;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.league_button {
+  padding: 4px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+
+}
+.league_button:disabled {
+  color: white;
+}
+.selector_underline {
+  height: 2px;
+  position: absolute;
+  bottom: 4px;
+  left: 4px;
+  width: 50px;
+  background-color: white!important;
+  transition: .15s left;
+}
+.league_data_container {
+  height: 100%;
+  display: flex;
+  width: 100%;
+}
+.league_img {
+  height: 110px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: .5rem;
+}
+.league_data_container div {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.winrate_text {
+  margin-top: 1rem;
+  margin-bottom: .25rem;
+  font-size: 13px;
+}
+.winrate_span {
+  font-size: medium;
+  margin-bottom: 1px;
+}
+.winrate_bar {
+  width: 90%!important;
+  max-width: 140px;
+  height: 3px;
+  background-color: var(--red)!important;
+}
+.winrate_bar div {
+  height: 100%;
+  background-color: var(--green)!important;
+  margin-right: auto;
+}

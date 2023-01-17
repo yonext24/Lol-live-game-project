@@ -1,0 +1,3206 @@
+{
+  "type": "champion",
+  "format": "standAloneComplex",
+  "version": "12.23.1",
+  "data": {
+    "Aatrox": {
+      "version": "12.23.1",
+      "id": "Aatrox",
+      "key": "266",
+      "name": "Aatrox",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 650,
+        "mp": 0,
+        "movespeed": 345,
+        "armor": 38,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 60,
+        "attackspeed": 0.651
+      }
+    },
+    "Ahri": {
+      "version": "12.23.1",
+      "id": "Ahri",
+      "key": "103",
+      "name": "Ahri",
+      "tags": [
+        "Mage",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 570,
+        "mp": 418,
+        "movespeed": 330,
+        "armor": 18,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 53,
+        "attackspeed": 0.668
+      }
+    },
+    "Akali": {
+      "version": "12.23.1",
+      "id": "Akali",
+      "key": "84",
+      "name": "Akali",
+      "tags": [
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 570,
+        "mp": 200,
+        "movespeed": 345,
+        "armor": 23,
+        "spellblock": 37,
+        "attackrange": 125,
+        "attackdamage": 62,
+        "attackspeed": 0.625
+      }
+    },
+    "Akshan": {
+      "version": "12.23.1",
+      "id": "Akshan",
+      "key": "166",
+      "name": "Akshan",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 630,
+        "mp": 350,
+        "movespeed": 330,
+        "armor": 26,
+        "spellblock": 30,
+        "attackrange": 500,
+        "attackdamage": 52,
+        "attackspeed": 0.638
+      }
+    },
+    "Alistar": {
+      "version": "12.23.1",
+      "id": "Alistar",
+      "key": "12",
+      "name": "Alistar",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "stats": {
+        "hp": 670,
+        "mp": 350,
+        "movespeed": 330,
+        "armor": 44,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 62,
+        "attackspeed": 0.625
+      }
+    },
+    "Amumu": {
+      "version": "12.23.1",
+      "id": "Amumu",
+      "key": "32",
+      "name": "Amumu",
+      "tags": [
+        "Tank",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 685,
+        "mp": 285,
+        "movespeed": 335,
+        "armor": 30,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 53,
+        "attackspeed": 0.736
+      }
+    },
+    "Anivia": {
+      "version": "12.23.1",
+      "id": "Anivia",
+      "key": "34",
+      "name": "Anivia",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "stats": {
+        "hp": 550,
+        "mp": 495,
+        "movespeed": 325,
+        "armor": 21,
+        "spellblock": 30,
+        "attackrange": 600,
+        "attackdamage": 51,
+        "attackspeed": 0.625
+      }
+    },
+    "Annie": {
+      "version": "12.23.1",
+      "id": "Annie",
+      "key": "1",
+      "name": "Annie",
+      "tags": [
+        "Mage"
+      ],
+      "stats": {
+        "hp": 594,
+        "mp": 418,
+        "movespeed": 335,
+        "armor": 19,
+        "spellblock": 30,
+        "attackrange": 625,
+        "attackdamage": 50,
+        "attackspeed": 0.579
+      }
+    },
+    "Aphelios": {
+      "version": "12.23.1",
+      "id": "Aphelios",
+      "key": "523",
+      "name": "Aphelios",
+      "tags": [
+        "Marksman"
+      ],
+      "stats": {
+        "hp": 580,
+        "mp": 348,
+        "movespeed": 325,
+        "armor": 26,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 55,
+        "attackspeed": 0.64
+      }
+    },
+    "Ashe": {
+      "version": "12.23.1",
+      "id": "Ashe",
+      "key": "22",
+      "name": "Ashe",
+      "tags": [
+        "Marksman",
+        "Support"
+      ],
+      "stats": {
+        "hp": 640,
+        "mp": 280,
+        "movespeed": 325,
+        "armor": 26,
+        "spellblock": 30,
+        "attackrange": 600,
+        "attackdamage": 59,
+        "attackspeed": 0.658
+      }
+    },
+    "AurelionSol": {
+      "version": "12.23.1",
+      "id": "AurelionSol",
+      "key": "136",
+      "name": "Aurelion Sol",
+      "tags": [
+        "Mage"
+      ],
+      "stats": {
+        "hp": 645,
+        "mp": 350,
+        "movespeed": 325,
+        "armor": 19,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 57,
+        "attackspeed": 0.625
+      }
+    },
+    "Azir": {
+      "version": "12.23.1",
+      "id": "Azir",
+      "key": "268",
+      "name": "Azir",
+      "tags": [
+        "Mage",
+        "Marksman"
+      ],
+      "stats": {
+        "hp": 622,
+        "mp": 480,
+        "movespeed": 335,
+        "armor": 19,
+        "spellblock": 30,
+        "attackrange": 525,
+        "attackdamage": 52,
+        "attackspeed": 0.625
+      }
+    },
+    "Bard": {
+      "version": "12.23.1",
+      "id": "Bard",
+      "key": "432",
+      "name": "Bard",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 630,
+        "mp": 350,
+        "movespeed": 330,
+        "armor": 34,
+        "spellblock": 30,
+        "attackrange": 500,
+        "attackdamage": 52,
+        "attackspeed": 0.625
+      }
+    },
+    "Belveth": {
+      "version": "12.23.1",
+      "id": "Belveth",
+      "key": "200",
+      "name": "Bel'Veth",
+      "tags": [
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 610,
+        "mp": 60,
+        "movespeed": 340,
+        "armor": 32,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 60,
+        "attackspeed": 0.85
+      }
+    },
+    "Blitzcrank": {
+      "version": "12.23.1",
+      "id": "Blitzcrank",
+      "key": "53",
+      "name": "Blitzcrank",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 633,
+        "mp": 267,
+        "movespeed": 325,
+        "armor": 40,
+        "spellblock": 28,
+        "attackrange": 125,
+        "attackdamage": 62,
+        "attackspeed": 0.65
+      }
+    },
+    "Brand": {
+      "version": "12.23.1",
+      "id": "Brand",
+      "key": "63",
+      "name": "Brand",
+      "tags": [
+        "Mage"
+      ],
+      "stats": {
+        "hp": 590,
+        "mp": 469,
+        "movespeed": 340,
+        "armor": 22,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 57,
+        "attackspeed": 0.625
+      }
+    },
+    "Braum": {
+      "version": "12.23.1",
+      "id": "Braum",
+      "key": "201",
+      "name": "Braum",
+      "tags": [
+        "Support",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 610,
+        "mp": 311,
+        "movespeed": 335,
+        "armor": 47,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 55,
+        "attackspeed": 0.644
+      }
+    },
+    "Caitlyn": {
+      "version": "12.23.1",
+      "id": "Caitlyn",
+      "key": "51",
+      "name": "Caitlyn",
+      "tags": [
+        "Marksman"
+      ],
+      "stats": {
+        "hp": 580,
+        "mp": 315,
+        "movespeed": 325,
+        "armor": 28,
+        "spellblock": 30,
+        "attackrange": 650,
+        "attackdamage": 62,
+        "attackspeed": 0.681
+      }
+    },
+    "Camille": {
+      "version": "12.23.1",
+      "id": "Camille",
+      "key": "164",
+      "name": "Camille",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 646,
+        "mp": 339,
+        "movespeed": 340,
+        "armor": 35,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 68,
+        "attackspeed": 0.644
+      }
+    },
+    "Cassiopeia": {
+      "version": "12.23.1",
+      "id": "Cassiopeia",
+      "key": "69",
+      "name": "Cassiopeia",
+      "tags": [
+        "Mage"
+      ],
+      "stats": {
+        "hp": 630,
+        "mp": 350,
+        "movespeed": 328,
+        "armor": 18,
+        "spellblock": 32,
+        "attackrange": 550,
+        "attackdamage": 53,
+        "attackspeed": 0.647
+      }
+    },
+    "Chogath": {
+      "version": "12.23.1",
+      "id": "Chogath",
+      "key": "31",
+      "name": "Cho'Gath",
+      "tags": [
+        "Tank",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 644,
+        "mp": 270,
+        "movespeed": 345,
+        "armor": 38,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 69,
+        "attackspeed": 0.625
+      }
+    },
+    "Corki": {
+      "version": "12.23.1",
+      "id": "Corki",
+      "key": "42",
+      "name": "Corki",
+      "tags": [
+        "Marksman"
+      ],
+      "stats": {
+        "hp": 588,
+        "mp": 350,
+        "movespeed": 325,
+        "armor": 28,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 55,
+        "attackspeed": 0.638
+      }
+    },
+    "Darius": {
+      "version": "12.23.1",
+      "id": "Darius",
+      "key": "122",
+      "name": "Darius",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 652,
+        "mp": 263,
+        "movespeed": 340,
+        "armor": 39,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 64,
+        "attackspeed": 0.625
+      }
+    },
+    "Diana": {
+      "version": "12.23.1",
+      "id": "Diana",
+      "key": "131",
+      "name": "Diana",
+      "tags": [
+        "Fighter",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 640,
+        "mp": 375,
+        "movespeed": 345,
+        "armor": 31,
+        "spellblock": 32,
+        "attackrange": 150,
+        "attackdamage": 57,
+        "attackspeed": 0.625
+      }
+    },
+    "Draven": {
+      "version": "12.23.1",
+      "id": "Draven",
+      "key": "119",
+      "name": "Draven",
+      "tags": [
+        "Marksman"
+      ],
+      "stats": {
+        "hp": 675,
+        "mp": 361,
+        "movespeed": 330,
+        "armor": 29,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 62,
+        "attackspeed": 0.679
+      }
+    },
+    "DrMundo": {
+      "version": "12.23.1",
+      "id": "DrMundo",
+      "key": "36",
+      "name": "Dr. Mundo",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 653,
+        "mp": 0,
+        "movespeed": 345,
+        "armor": 32,
+        "spellblock": 29,
+        "attackrange": 125,
+        "attackdamage": 61,
+        "attackspeed": 0.67
+      }
+    },
+    "Ekko": {
+      "version": "12.23.1",
+      "id": "Ekko",
+      "key": "245",
+      "name": "Ekko",
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 655,
+        "mp": 280,
+        "movespeed": 340,
+        "armor": 32,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 58,
+        "attackspeed": 0.688
+      }
+    },
+    "Elise": {
+      "version": "12.23.1",
+      "id": "Elise",
+      "key": "60",
+      "name": "Elise",
+      "tags": [
+        "Mage",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 650,
+        "mp": 324,
+        "movespeed": 330,
+        "armor": 30,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 55,
+        "attackspeed": 0.625
+      }
+    },
+    "Evelynn": {
+      "version": "12.23.1",
+      "id": "Evelynn",
+      "key": "28",
+      "name": "Evelynn",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 642,
+        "mp": 315,
+        "movespeed": 335,
+        "armor": 37,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 61,
+        "attackspeed": 0.667
+      }
+    },
+    "Ezreal": {
+      "version": "12.23.1",
+      "id": "Ezreal",
+      "key": "81",
+      "name": "Ezreal",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 600,
+        "mp": 375,
+        "movespeed": 325,
+        "armor": 24,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 60,
+        "attackspeed": 0.625
+      }
+    },
+    "Fiddlesticks": {
+      "version": "12.23.1",
+      "id": "Fiddlesticks",
+      "key": "9",
+      "name": "Fiddlesticks",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "stats": {
+        "hp": 650,
+        "mp": 500,
+        "movespeed": 335,
+        "armor": 34,
+        "spellblock": 30,
+        "attackrange": 480,
+        "attackdamage": 55,
+        "attackspeed": 0.625
+      }
+    },
+    "Fiora": {
+      "version": "12.23.1",
+      "id": "Fiora",
+      "key": "114",
+      "name": "Fiora",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 620,
+        "mp": 300,
+        "movespeed": 345,
+        "armor": 33,
+        "spellblock": 32,
+        "attackrange": 150,
+        "attackdamage": 68,
+        "attackspeed": 0.69
+      }
+    },
+    "Fizz": {
+      "version": "12.23.1",
+      "id": "Fizz",
+      "key": "105",
+      "name": "Fizz",
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 640,
+        "mp": 317,
+        "movespeed": 335,
+        "armor": 22,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 58,
+        "attackspeed": 0.658
+      }
+    },
+    "Galio": {
+      "version": "12.23.1",
+      "id": "Galio",
+      "key": "3",
+      "name": "Galio",
+      "tags": [
+        "Tank",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 632,
+        "mp": 500,
+        "movespeed": 335,
+        "armor": 24,
+        "spellblock": 32,
+        "attackrange": 150,
+        "attackdamage": 59,
+        "attackspeed": 0.625
+      }
+    },
+    "Gangplank": {
+      "version": "12.23.1",
+      "id": "Gangplank",
+      "key": "41",
+      "name": "Gangplank",
+      "tags": [
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 600,
+        "mp": 280,
+        "movespeed": 345,
+        "armor": 31,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 64,
+        "attackspeed": 0.658
+      }
+    },
+    "Garen": {
+      "version": "12.23.1",
+      "id": "Garen",
+      "key": "86",
+      "name": "Garen",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 690,
+        "mp": 0,
+        "movespeed": 340,
+        "armor": 36,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 66,
+        "attackspeed": 0.625
+      }
+    },
+    "Gnar": {
+      "version": "12.23.1",
+      "id": "Gnar",
+      "key": "150",
+      "name": "Gnar",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 540,
+        "mp": 100,
+        "movespeed": 335,
+        "armor": 32,
+        "spellblock": 30,
+        "attackrange": 175,
+        "attackdamage": 57,
+        "attackspeed": 0.625
+      }
+    },
+    "Gragas": {
+      "version": "12.23.1",
+      "id": "Gragas",
+      "key": "79",
+      "name": "Gragas",
+      "tags": [
+        "Fighter",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 670,
+        "mp": 400,
+        "movespeed": 330,
+        "armor": 38,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 64,
+        "attackspeed": 0.675
+      }
+    },
+    "Graves": {
+      "version": "12.23.1",
+      "id": "Graves",
+      "key": "104",
+      "name": "Graves",
+      "tags": [
+        "Marksman"
+      ],
+      "stats": {
+        "hp": 625,
+        "mp": 325,
+        "movespeed": 340,
+        "armor": 33,
+        "spellblock": 32,
+        "attackrange": 425,
+        "attackdamage": 68,
+        "attackspeed": 0.475
+      }
+    },
+    "Gwen": {
+      "version": "12.23.1",
+      "id": "Gwen",
+      "key": "887",
+      "name": "Gwen",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 620,
+        "mp": 330,
+        "movespeed": 340,
+        "armor": 39,
+        "spellblock": 32,
+        "attackrange": 150,
+        "attackdamage": 63,
+        "attackspeed": 0.69
+      }
+    },
+    "Hecarim": {
+      "version": "12.23.1",
+      "id": "Hecarim",
+      "key": "120",
+      "name": "Hecarim",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 625,
+        "mp": 277,
+        "movespeed": 345,
+        "armor": 32,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 66,
+        "attackspeed": 0.67
+      }
+    },
+    "Heimerdinger": {
+      "version": "12.23.1",
+      "id": "Heimerdinger",
+      "key": "74",
+      "name": "Heimerdinger",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "stats": {
+        "hp": 558,
+        "mp": 385,
+        "movespeed": 340,
+        "armor": 19,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 56,
+        "attackspeed": 0.625
+      }
+    },
+    "Illaoi": {
+      "version": "12.23.1",
+      "id": "Illaoi",
+      "key": "420",
+      "name": "Illaoi",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 656,
+        "mp": 300,
+        "movespeed": 350,
+        "armor": 35,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 68,
+        "attackspeed": 0.625
+      }
+    },
+    "Irelia": {
+      "version": "12.23.1",
+      "id": "Irelia",
+      "key": "39",
+      "name": "Irelia",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 590,
+        "mp": 350,
+        "movespeed": 335,
+        "armor": 36,
+        "spellblock": 30,
+        "attackrange": 200,
+        "attackdamage": 65,
+        "attackspeed": 0.656
+      }
+    },
+    "Ivern": {
+      "version": "12.23.1",
+      "id": "Ivern",
+      "key": "427",
+      "name": "Ivern",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 655,
+        "mp": 450,
+        "movespeed": 330,
+        "armor": 27,
+        "spellblock": 32,
+        "attackrange": 475,
+        "attackdamage": 50,
+        "attackspeed": 0.644
+      }
+    },
+    "Janna": {
+      "version": "12.23.1",
+      "id": "Janna",
+      "key": "40",
+      "name": "Janna",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 570,
+        "mp": 350,
+        "movespeed": 325,
+        "armor": 28,
+        "spellblock": 30,
+        "attackrange": 500,
+        "attackdamage": 52,
+        "attackspeed": 0.625
+      }
+    },
+    "JarvanIV": {
+      "version": "12.23.1",
+      "id": "JarvanIV",
+      "key": "59",
+      "name": "Jarvan IV",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 640,
+        "mp": 300,
+        "movespeed": 340,
+        "armor": 34,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 64,
+        "attackspeed": 0.658
+      }
+    },
+    "Jax": {
+      "version": "12.23.1",
+      "id": "Jax",
+      "key": "24",
+      "name": "Jax",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 685,
+        "mp": 339,
+        "movespeed": 350,
+        "armor": 36,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 68,
+        "attackspeed": 0.638
+      }
+    },
+    "Jayce": {
+      "version": "12.23.1",
+      "id": "Jayce",
+      "key": "126",
+      "name": "Jayce",
+      "tags": [
+        "Fighter",
+        "Marksman"
+      ],
+      "stats": {
+        "hp": 590,
+        "mp": 375,
+        "movespeed": 335,
+        "armor": 22,
+        "spellblock": 30,
+        "attackrange": 125,
+        "attackdamage": 54,
+        "attackspeed": 0.658
+      }
+    },
+    "Jhin": {
+      "version": "12.23.1",
+      "id": "Jhin",
+      "key": "202",
+      "name": "Jhin",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 655,
+        "mp": 300,
+        "movespeed": 330,
+        "armor": 24,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 59,
+        "attackspeed": 0.625
+      }
+    },
+    "Jinx": {
+      "version": "12.23.1",
+      "id": "Jinx",
+      "key": "222",
+      "name": "Jinx",
+      "tags": [
+        "Marksman"
+      ],
+      "stats": {
+        "hp": 630,
+        "mp": 245,
+        "movespeed": 325,
+        "armor": 26,
+        "spellblock": 30,
+        "attackrange": 525,
+        "attackdamage": 59,
+        "attackspeed": 0.625
+      }
+    },
+    "Kaisa": {
+      "version": "12.23.1",
+      "id": "Kaisa",
+      "key": "145",
+      "name": "Kai'Sa",
+      "tags": [
+        "Marksman"
+      ],
+      "stats": {
+        "hp": 670,
+        "mp": 344.88,
+        "movespeed": 335,
+        "armor": 28,
+        "spellblock": 30,
+        "attackrange": 525,
+        "attackdamage": 59,
+        "attackspeed": 0.644
+      }
+    },
+    "Kalista": {
+      "version": "12.23.1",
+      "id": "Kalista",
+      "key": "429",
+      "name": "Kalista",
+      "tags": [
+        "Marksman"
+      ],
+      "stats": {
+        "hp": 574,
+        "mp": 300,
+        "movespeed": 330,
+        "armor": 24,
+        "spellblock": 30,
+        "attackrange": 525,
+        "attackdamage": 66,
+        "attackspeed": 0.694
+      }
+    },
+    "Karma": {
+      "version": "12.23.1",
+      "id": "Karma",
+      "key": "43",
+      "name": "Karma",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "stats": {
+        "hp": 604,
+        "mp": 374,
+        "movespeed": 335,
+        "armor": 28,
+        "spellblock": 30,
+        "attackrange": 525,
+        "attackdamage": 51,
+        "attackspeed": 0.625
+      }
+    },
+    "Karthus": {
+      "version": "12.23.1",
+      "id": "Karthus",
+      "key": "30",
+      "name": "Karthus",
+      "tags": [
+        "Mage"
+      ],
+      "stats": {
+        "hp": 620,
+        "mp": 467,
+        "movespeed": 335,
+        "armor": 21,
+        "spellblock": 30,
+        "attackrange": 450,
+        "attackdamage": 46,
+        "attackspeed": 0.625
+      }
+    },
+    "Kassadin": {
+      "version": "12.23.1",
+      "id": "Kassadin",
+      "key": "38",
+      "name": "Kassadin",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 646,
+        "mp": 400,
+        "movespeed": 335,
+        "armor": 19,
+        "spellblock": 30,
+        "attackrange": 150,
+        "attackdamage": 59,
+        "attackspeed": 0.64
+      }
+    },
+    "Katarina": {
+      "version": "12.23.1",
+      "id": "Katarina",
+      "key": "55",
+      "name": "Katarina",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 672,
+        "mp": 0,
+        "movespeed": 335,
+        "armor": 28,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 58,
+        "attackspeed": 0.658
+      }
+    },
+    "Kayle": {
+      "version": "12.23.1",
+      "id": "Kayle",
+      "key": "10",
+      "name": "Kayle",
+      "tags": [
+        "Fighter",
+        "Support"
+      ],
+      "stats": {
+        "hp": 670,
+        "mp": 330,
+        "movespeed": 335,
+        "armor": 26,
+        "spellblock": 22,
+        "attackrange": 175,
+        "attackdamage": 50,
+        "attackspeed": 0.625
+      }
+    },
+    "Kayn": {
+      "version": "12.23.1",
+      "id": "Kayn",
+      "key": "141",
+      "name": "Kayn",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 655,
+        "mp": 410,
+        "movespeed": 340,
+        "armor": 38,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 68,
+        "attackspeed": 0.669
+      }
+    },
+    "Kennen": {
+      "version": "12.23.1",
+      "id": "Kennen",
+      "key": "85",
+      "name": "Kennen",
+      "tags": [
+        "Mage",
+        "Marksman"
+      ],
+      "stats": {
+        "hp": 611,
+        "mp": 200,
+        "movespeed": 335,
+        "armor": 29,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 48,
+        "attackspeed": 0.625
+      }
+    },
+    "Khazix": {
+      "version": "12.23.1",
+      "id": "Khazix",
+      "key": "121",
+      "name": "Kha'Zix",
+      "tags": [
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 643,
+        "mp": 327,
+        "movespeed": 350,
+        "armor": 36,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 63,
+        "attackspeed": 0.668
+      }
+    },
+    "Kindred": {
+      "version": "12.23.1",
+      "id": "Kindred",
+      "key": "203",
+      "name": "Kindred",
+      "tags": [
+        "Marksman"
+      ],
+      "stats": {
+        "hp": 610,
+        "mp": 300,
+        "movespeed": 325,
+        "armor": 29,
+        "spellblock": 30,
+        "attackrange": 500,
+        "attackdamage": 65,
+        "attackspeed": 0.625
+      }
+    },
+    "Kled": {
+      "version": "12.23.1",
+      "id": "Kled",
+      "key": "240",
+      "name": "Kled",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 410,
+        "mp": 100,
+        "movespeed": 345,
+        "armor": 35,
+        "spellblock": 28,
+        "attackrange": 125,
+        "attackdamage": 65,
+        "attackspeed": 0.625
+      }
+    },
+    "KogMaw": {
+      "version": "12.23.1",
+      "id": "KogMaw",
+      "key": "96",
+      "name": "Kog'Maw",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 635,
+        "mp": 325,
+        "movespeed": 330,
+        "armor": 24,
+        "spellblock": 30,
+        "attackrange": 500,
+        "attackdamage": 61,
+        "attackspeed": 0.665
+      }
+    },
+    "KSante": {
+      "version": "12.23.1",
+      "id": "KSante",
+      "key": "897",
+      "name": "K'Sante",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 610,
+        "mp": 290,
+        "movespeed": 335,
+        "armor": 33,
+        "spellblock": 30,
+        "attackrange": 175,
+        "attackdamage": 64,
+        "attackspeed": 0.625
+      }
+    },
+    "Leblanc": {
+      "version": "12.23.1",
+      "id": "Leblanc",
+      "key": "7",
+      "name": "LeBlanc",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 598,
+        "mp": 400,
+        "movespeed": 340,
+        "armor": 22,
+        "spellblock": 30,
+        "attackrange": 525,
+        "attackdamage": 55,
+        "attackspeed": 0.625
+      }
+    },
+    "LeeSin": {
+      "version": "12.23.1",
+      "id": "LeeSin",
+      "key": "64",
+      "name": "Lee Sin",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 645,
+        "mp": 200,
+        "movespeed": 345,
+        "armor": 36,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 68,
+        "attackspeed": 0.651
+      }
+    },
+    "Leona": {
+      "version": "12.23.1",
+      "id": "Leona",
+      "key": "89",
+      "name": "Leona",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "stats": {
+        "hp": 646,
+        "mp": 302,
+        "movespeed": 335,
+        "armor": 47,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 60,
+        "attackspeed": 0.625
+      }
+    },
+    "Lillia": {
+      "version": "12.23.1",
+      "id": "Lillia",
+      "key": "876",
+      "name": "Lillia",
+      "tags": [
+        "Fighter",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 605,
+        "mp": 410,
+        "movespeed": 330,
+        "armor": 22,
+        "spellblock": 32,
+        "attackrange": 325,
+        "attackdamage": 61,
+        "attackspeed": 0.625
+      }
+    },
+    "Lissandra": {
+      "version": "12.23.1",
+      "id": "Lissandra",
+      "key": "127",
+      "name": "Lissandra",
+      "tags": [
+        "Mage"
+      ],
+      "stats": {
+        "hp": 620,
+        "mp": 475,
+        "movespeed": 325,
+        "armor": 22,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 55,
+        "attackspeed": 0.656
+      }
+    },
+    "Lucian": {
+      "version": "12.23.1",
+      "id": "Lucian",
+      "key": "236",
+      "name": "Lucian",
+      "tags": [
+        "Marksman"
+      ],
+      "stats": {
+        "hp": 641,
+        "mp": 349,
+        "movespeed": 335,
+        "armor": 28,
+        "spellblock": 30,
+        "attackrange": 500,
+        "attackdamage": 60,
+        "attackspeed": 0.638
+      }
+    },
+    "Lulu": {
+      "version": "12.23.1",
+      "id": "Lulu",
+      "key": "117",
+      "name": "Lulu",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 595,
+        "mp": 350,
+        "movespeed": 330,
+        "armor": 29,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 47,
+        "attackspeed": 0.625
+      }
+    },
+    "Lux": {
+      "version": "12.23.1",
+      "id": "Lux",
+      "key": "99",
+      "name": "Lux",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "stats": {
+        "hp": 560,
+        "mp": 480,
+        "movespeed": 330,
+        "armor": 19,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 54,
+        "attackspeed": 0.669
+      }
+    },
+    "Malphite": {
+      "version": "12.23.1",
+      "id": "Malphite",
+      "key": "54",
+      "name": "Malphite",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 644,
+        "mp": 280,
+        "movespeed": 335,
+        "armor": 37,
+        "spellblock": 28,
+        "attackrange": 125,
+        "attackdamage": 62,
+        "attackspeed": 0.736
+      }
+    },
+    "Malzahar": {
+      "version": "12.23.1",
+      "id": "Malzahar",
+      "key": "90",
+      "name": "Malzahar",
+      "tags": [
+        "Mage",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 580,
+        "mp": 375,
+        "movespeed": 335,
+        "armor": 18,
+        "spellblock": 30,
+        "attackrange": 500,
+        "attackdamage": 55,
+        "attackspeed": 0.625
+      }
+    },
+    "Maokai": {
+      "version": "12.23.1",
+      "id": "Maokai",
+      "key": "57",
+      "name": "Maokai",
+      "tags": [
+        "Tank",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 635,
+        "mp": 375,
+        "movespeed": 335,
+        "armor": 39,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 64,
+        "attackspeed": 0.8
+      }
+    },
+    "MasterYi": {
+      "version": "12.23.1",
+      "id": "MasterYi",
+      "key": "11",
+      "name": "Master Yi",
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 669,
+        "mp": 251,
+        "movespeed": 355,
+        "armor": 33,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 65,
+        "attackspeed": 0.679
+      }
+    },
+    "MissFortune": {
+      "version": "12.23.1",
+      "id": "MissFortune",
+      "key": "21",
+      "name": "Miss Fortune",
+      "tags": [
+        "Marksman"
+      ],
+      "stats": {
+        "hp": 640,
+        "mp": 300,
+        "movespeed": 325,
+        "armor": 28,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 52,
+        "attackspeed": 0.656
+      }
+    },
+    "MonkeyKing": {
+      "version": "12.23.1",
+      "id": "MonkeyKing",
+      "key": "62",
+      "name": "Wukong",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 610,
+        "mp": 300,
+        "movespeed": 340,
+        "armor": 31,
+        "spellblock": 28,
+        "attackrange": 175,
+        "attackdamage": 68,
+        "attackspeed": 0.69
+      }
+    },
+    "Mordekaiser": {
+      "version": "12.23.1",
+      "id": "Mordekaiser",
+      "key": "82",
+      "name": "Mordekaiser",
+      "tags": [
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 645,
+        "mp": 100,
+        "movespeed": 335,
+        "armor": 37,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 61,
+        "attackspeed": 0.625
+      }
+    },
+    "Morgana": {
+      "version": "12.23.1",
+      "id": "Morgana",
+      "key": "25",
+      "name": "Morgana",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "stats": {
+        "hp": 630,
+        "mp": 340,
+        "movespeed": 335,
+        "armor": 25,
+        "spellblock": 30,
+        "attackrange": 450,
+        "attackdamage": 56,
+        "attackspeed": 0.625
+      }
+    },
+    "Nami": {
+      "version": "12.23.1",
+      "id": "Nami",
+      "key": "267",
+      "name": "Nami",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 560,
+        "mp": 365,
+        "movespeed": 335,
+        "armor": 29,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 51,
+        "attackspeed": 0.644
+      }
+    },
+    "Nasus": {
+      "version": "12.23.1",
+      "id": "Nasus",
+      "key": "75",
+      "name": "Nasus",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 631,
+        "mp": 326,
+        "movespeed": 350,
+        "armor": 34,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 67,
+        "attackspeed": 0.638
+      }
+    },
+    "Nautilus": {
+      "version": "12.23.1",
+      "id": "Nautilus",
+      "key": "111",
+      "name": "Nautilus",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "stats": {
+        "hp": 646,
+        "mp": 400,
+        "movespeed": 325,
+        "armor": 39,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 61,
+        "attackspeed": 0.706
+      }
+    },
+    "Neeko": {
+      "version": "12.23.1",
+      "id": "Neeko",
+      "key": "518",
+      "name": "Neeko",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "stats": {
+        "hp": 610,
+        "mp": 450,
+        "movespeed": 340,
+        "armor": 21,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 48,
+        "attackspeed": 0.625
+      }
+    },
+    "Nidalee": {
+      "version": "12.23.1",
+      "id": "Nidalee",
+      "key": "76",
+      "name": "Nidalee",
+      "tags": [
+        "Assassin",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 610,
+        "mp": 295,
+        "movespeed": 335,
+        "armor": 28,
+        "spellblock": 30,
+        "attackrange": 525,
+        "attackdamage": 58,
+        "attackspeed": 0.638
+      }
+    },
+    "Nilah": {
+      "version": "12.23.1",
+      "id": "Nilah",
+      "key": "895",
+      "name": "Nilah",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 570,
+        "mp": 350,
+        "movespeed": 340,
+        "armor": 27,
+        "spellblock": 32,
+        "attackrange": 225,
+        "attackdamage": 58,
+        "attackspeed": 0.697
+      }
+    },
+    "Nocturne": {
+      "version": "12.23.1",
+      "id": "Nocturne",
+      "key": "56",
+      "name": "Nocturne",
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 655,
+        "mp": 275,
+        "movespeed": 345,
+        "armor": 38,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 62,
+        "attackspeed": 0.721
+      }
+    },
+    "Nunu": {
+      "version": "12.23.1",
+      "id": "Nunu",
+      "key": "20",
+      "name": "Nunu & Willump",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 610,
+        "mp": 280,
+        "movespeed": 345,
+        "armor": 29,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 61,
+        "attackspeed": 0.625
+      }
+    },
+    "Olaf": {
+      "version": "12.23.1",
+      "id": "Olaf",
+      "key": "2",
+      "name": "Olaf",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 645,
+        "mp": 316,
+        "movespeed": 350,
+        "armor": 35,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 68,
+        "attackspeed": 0.694
+      }
+    },
+    "Orianna": {
+      "version": "12.23.1",
+      "id": "Orianna",
+      "key": "61",
+      "name": "Orianna",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "stats": {
+        "hp": 600,
+        "mp": 418,
+        "movespeed": 325,
+        "armor": 17,
+        "spellblock": 26,
+        "attackrange": 525,
+        "attackdamage": 40,
+        "attackspeed": 0.658
+      }
+    },
+    "Ornn": {
+      "version": "12.23.1",
+      "id": "Ornn",
+      "key": "516",
+      "name": "Ornn",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 660,
+        "mp": 341,
+        "movespeed": 335,
+        "armor": 33,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 69,
+        "attackspeed": 0.625
+      }
+    },
+    "Pantheon": {
+      "version": "12.23.1",
+      "id": "Pantheon",
+      "key": "80",
+      "name": "Pantheon",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 650,
+        "mp": 317,
+        "movespeed": 345,
+        "armor": 40,
+        "spellblock": 28,
+        "attackrange": 175,
+        "attackdamage": 64,
+        "attackspeed": 0.644
+      }
+    },
+    "Poppy": {
+      "version": "12.23.1",
+      "id": "Poppy",
+      "key": "78",
+      "name": "Poppy",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 610,
+        "mp": 280,
+        "movespeed": 345,
+        "armor": 38,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 64,
+        "attackspeed": 0.625
+      }
+    },
+    "Pyke": {
+      "version": "12.23.1",
+      "id": "Pyke",
+      "key": "555",
+      "name": "Pyke",
+      "tags": [
+        "Support",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 670,
+        "mp": 415,
+        "movespeed": 330,
+        "armor": 45,
+        "spellblock": 32,
+        "attackrange": 150,
+        "attackdamage": 62,
+        "attackspeed": 0.667
+      }
+    },
+    "Qiyana": {
+      "version": "12.23.1",
+      "id": "Qiyana",
+      "key": "246",
+      "name": "Qiyana",
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 590,
+        "mp": 320,
+        "movespeed": 335,
+        "armor": 28,
+        "spellblock": 32,
+        "attackrange": 150,
+        "attackdamage": 66,
+        "attackspeed": 0.688
+      }
+    },
+    "Quinn": {
+      "version": "12.23.1",
+      "id": "Quinn",
+      "key": "133",
+      "name": "Quinn",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 603,
+        "mp": 269,
+        "movespeed": 335,
+        "armor": 28,
+        "spellblock": 30,
+        "attackrange": 525,
+        "attackdamage": 59,
+        "attackspeed": 0.668
+      }
+    },
+    "Rakan": {
+      "version": "12.23.1",
+      "id": "Rakan",
+      "key": "497",
+      "name": "Rakan",
+      "tags": [
+        "Support"
+      ],
+      "stats": {
+        "hp": 610,
+        "mp": 315,
+        "movespeed": 335,
+        "armor": 32,
+        "spellblock": 32,
+        "attackrange": 300,
+        "attackdamage": 62,
+        "attackspeed": 0.635
+      }
+    },
+    "Rammus": {
+      "version": "12.23.1",
+      "id": "Rammus",
+      "key": "33",
+      "name": "Rammus",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 634,
+        "mp": 310,
+        "movespeed": 335,
+        "armor": 36,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 56,
+        "attackspeed": 0.656
+      }
+    },
+    "RekSai": {
+      "version": "12.23.1",
+      "id": "RekSai",
+      "key": "421",
+      "name": "Rek'Sai",
+      "tags": [
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 640,
+        "mp": 100,
+        "movespeed": 335,
+        "armor": 36,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 61,
+        "attackspeed": 0.667
+      }
+    },
+    "Rell": {
+      "version": "12.23.1",
+      "id": "Rell",
+      "key": "526",
+      "name": "Rell",
+      "tags": [
+        "Tank",
+        "Support"
+      ],
+      "stats": {
+        "hp": 610,
+        "mp": 350,
+        "movespeed": 335,
+        "armor": 32,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 55,
+        "attackspeed": 0.55
+      }
+    },
+    "Renata": {
+      "version": "12.23.1",
+      "id": "Renata",
+      "key": "888",
+      "name": "Renata Glasc",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 545,
+        "mp": 350,
+        "movespeed": 330,
+        "armor": 27,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 49,
+        "attackspeed": 0.625
+      }
+    },
+    "Renekton": {
+      "version": "12.23.1",
+      "id": "Renekton",
+      "key": "58",
+      "name": "Renekton",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 660,
+        "mp": 100,
+        "movespeed": 345,
+        "armor": 35,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 69,
+        "attackspeed": 0.665
+      }
+    },
+    "Rengar": {
+      "version": "12.23.1",
+      "id": "Rengar",
+      "key": "107",
+      "name": "Rengar",
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 620,
+        "mp": 4,
+        "movespeed": 345,
+        "armor": 34,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 68,
+        "attackspeed": 0.667
+      }
+    },
+    "Riven": {
+      "version": "12.23.1",
+      "id": "Riven",
+      "key": "92",
+      "name": "Riven",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 630,
+        "mp": 0,
+        "movespeed": 340,
+        "armor": 33,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 64,
+        "attackspeed": 0.625
+      }
+    },
+    "Rumble": {
+      "version": "12.23.1",
+      "id": "Rumble",
+      "key": "68",
+      "name": "Rumble",
+      "tags": [
+        "Fighter",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 659,
+        "mp": 100,
+        "movespeed": 345,
+        "armor": 36,
+        "spellblock": 28,
+        "attackrange": 125,
+        "attackdamage": 61,
+        "attackspeed": 0.644
+      }
+    },
+    "Ryze": {
+      "version": "12.23.1",
+      "id": "Ryze",
+      "key": "13",
+      "name": "Ryze",
+      "tags": [
+        "Mage",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 645,
+        "mp": 300,
+        "movespeed": 340,
+        "armor": 22,
+        "spellblock": 36,
+        "attackrange": 550,
+        "attackdamage": 58,
+        "attackspeed": 0.625
+      }
+    },
+    "Samira": {
+      "version": "12.23.1",
+      "id": "Samira",
+      "key": "360",
+      "name": "Samira",
+      "tags": [
+        "Marksman"
+      ],
+      "stats": {
+        "hp": 600,
+        "mp": 349,
+        "movespeed": 335,
+        "armor": 26,
+        "spellblock": 30,
+        "attackrange": 500,
+        "attackdamage": 57,
+        "attackspeed": 0.658
+      }
+    },
+    "Sejuani": {
+      "version": "12.23.1",
+      "id": "Sejuani",
+      "key": "113",
+      "name": "Sejuani",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 630,
+        "mp": 400,
+        "movespeed": 340,
+        "armor": 34,
+        "spellblock": 32,
+        "attackrange": 150,
+        "attackdamage": 66,
+        "attackspeed": 0.688
+      }
+    },
+    "Senna": {
+      "version": "12.23.1",
+      "id": "Senna",
+      "key": "235",
+      "name": "Senna",
+      "tags": [
+        "Marksman",
+        "Support"
+      ],
+      "stats": {
+        "hp": 530,
+        "mp": 350,
+        "movespeed": 330,
+        "armor": 28,
+        "spellblock": 30,
+        "attackrange": 600,
+        "attackdamage": 50,
+        "attackspeed": 0.625
+      }
+    },
+    "Seraphine": {
+      "version": "12.23.1",
+      "id": "Seraphine",
+      "key": "147",
+      "name": "Seraphine",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "stats": {
+        "hp": 570,
+        "mp": 440,
+        "movespeed": 325,
+        "armor": 19,
+        "spellblock": 30,
+        "attackrange": 525,
+        "attackdamage": 55,
+        "attackspeed": 0.669
+      }
+    },
+    "Sett": {
+      "version": "12.23.1",
+      "id": "Sett",
+      "key": "875",
+      "name": "Sett",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 670,
+        "mp": 0,
+        "movespeed": 340,
+        "armor": 33,
+        "spellblock": 28,
+        "attackrange": 125,
+        "attackdamage": 60,
+        "attackspeed": 0.625
+      }
+    },
+    "Shaco": {
+      "version": "12.23.1",
+      "id": "Shaco",
+      "key": "35",
+      "name": "Shaco",
+      "tags": [
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 630,
+        "mp": 297,
+        "movespeed": 345,
+        "armor": 30,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 63,
+        "attackspeed": 0.694
+      }
+    },
+    "Shen": {
+      "version": "12.23.1",
+      "id": "Shen",
+      "key": "98",
+      "name": "Shen",
+      "tags": [
+        "Tank"
+      ],
+      "stats": {
+        "hp": 610,
+        "mp": 400,
+        "movespeed": 340,
+        "armor": 34,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 60,
+        "attackspeed": 0.751
+      }
+    },
+    "Shyvana": {
+      "version": "12.23.1",
+      "id": "Shyvana",
+      "key": "102",
+      "name": "Shyvana",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 665,
+        "mp": 100,
+        "movespeed": 350,
+        "armor": 38,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 66,
+        "attackspeed": 0.658
+      }
+    },
+    "Singed": {
+      "version": "12.23.1",
+      "id": "Singed",
+      "key": "27",
+      "name": "Singed",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 650,
+        "mp": 330,
+        "movespeed": 345,
+        "armor": 34,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 63,
+        "attackspeed": 0.613
+      }
+    },
+    "Sion": {
+      "version": "12.23.1",
+      "id": "Sion",
+      "key": "14",
+      "name": "Sion",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 615,
+        "mp": 400,
+        "movespeed": 345,
+        "armor": 32,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 68,
+        "attackspeed": 0.679
+      }
+    },
+    "Sivir": {
+      "version": "12.23.1",
+      "id": "Sivir",
+      "key": "15",
+      "name": "Sivir",
+      "tags": [
+        "Marksman"
+      ],
+      "stats": {
+        "hp": 600,
+        "mp": 340,
+        "movespeed": 335,
+        "armor": 26,
+        "spellblock": 30,
+        "attackrange": 500,
+        "attackdamage": 58,
+        "attackspeed": 0.625
+      }
+    },
+    "Skarner": {
+      "version": "12.23.1",
+      "id": "Skarner",
+      "key": "72",
+      "name": "Skarner",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 650,
+        "mp": 320,
+        "movespeed": 335,
+        "armor": 38,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 65,
+        "attackspeed": 0.625
+      }
+    },
+    "Sona": {
+      "version": "12.23.1",
+      "id": "Sona",
+      "key": "37",
+      "name": "Sona",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 550,
+        "mp": 340,
+        "movespeed": 325,
+        "armor": 26,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 49,
+        "attackspeed": 0.644
+      }
+    },
+    "Soraka": {
+      "version": "12.23.1",
+      "id": "Soraka",
+      "key": "16",
+      "name": "Soraka",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 605,
+        "mp": 425,
+        "movespeed": 325,
+        "armor": 32,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 50,
+        "attackspeed": 0.625
+      }
+    },
+    "Swain": {
+      "version": "12.23.1",
+      "id": "Swain",
+      "key": "50",
+      "name": "Swain",
+      "tags": [
+        "Mage",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 595,
+        "mp": 468,
+        "movespeed": 330,
+        "armor": 26,
+        "spellblock": 30,
+        "attackrange": 525,
+        "attackdamage": 58,
+        "attackspeed": 0.625
+      }
+    },
+    "Sylas": {
+      "version": "12.23.1",
+      "id": "Sylas",
+      "key": "517",
+      "name": "Sylas",
+      "tags": [
+        "Mage",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 575,
+        "mp": 310,
+        "movespeed": 340,
+        "armor": 27,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 61,
+        "attackspeed": 0.645
+      }
+    },
+    "Syndra": {
+      "version": "12.23.1",
+      "id": "Syndra",
+      "key": "134",
+      "name": "Syndra",
+      "tags": [
+        "Mage"
+      ],
+      "stats": {
+        "hp": 563,
+        "mp": 480,
+        "movespeed": 330,
+        "armor": 25,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 54,
+        "attackspeed": 0.625
+      }
+    },
+    "TahmKench": {
+      "version": "12.23.1",
+      "id": "TahmKench",
+      "key": "223",
+      "name": "Tahm Kench",
+      "tags": [
+        "Support",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 640,
+        "mp": 325,
+        "movespeed": 335,
+        "armor": 42,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 56,
+        "attackspeed": 0.658
+      }
+    },
+    "Taliyah": {
+      "version": "12.23.1",
+      "id": "Taliyah",
+      "key": "163",
+      "name": "Taliyah",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "stats": {
+        "hp": 550,
+        "mp": 470,
+        "movespeed": 330,
+        "armor": 18,
+        "spellblock": 30,
+        "attackrange": 525,
+        "attackdamage": 58,
+        "attackspeed": 0.625
+      }
+    },
+    "Talon": {
+      "version": "12.23.1",
+      "id": "Talon",
+      "key": "91",
+      "name": "Talon",
+      "tags": [
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 658,
+        "mp": 377,
+        "movespeed": 335,
+        "armor": 30,
+        "spellblock": 39,
+        "attackrange": 125,
+        "attackdamage": 68,
+        "attackspeed": 0.625
+      }
+    },
+    "Taric": {
+      "version": "12.23.1",
+      "id": "Taric",
+      "key": "44",
+      "name": "Taric",
+      "tags": [
+        "Support",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 645,
+        "mp": 300,
+        "movespeed": 340,
+        "armor": 40,
+        "spellblock": 28,
+        "attackrange": 150,
+        "attackdamage": 55,
+        "attackspeed": 0.625
+      }
+    },
+    "Teemo": {
+      "version": "12.23.1",
+      "id": "Teemo",
+      "key": "17",
+      "name": "Teemo",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 598,
+        "mp": 334,
+        "movespeed": 330,
+        "armor": 24,
+        "spellblock": 30,
+        "attackrange": 500,
+        "attackdamage": 54,
+        "attackspeed": 0.69
+      }
+    },
+    "Thresh": {
+      "version": "12.23.1",
+      "id": "Thresh",
+      "key": "412",
+      "name": "Thresh",
+      "tags": [
+        "Support",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 600,
+        "mp": 274,
+        "movespeed": 330,
+        "armor": 28,
+        "spellblock": 30,
+        "attackrange": 450,
+        "attackdamage": 56,
+        "attackspeed": 0.625
+      }
+    },
+    "Tristana": {
+      "version": "12.23.1",
+      "id": "Tristana",
+      "key": "18",
+      "name": "Tristana",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 670,
+        "mp": 250,
+        "movespeed": 325,
+        "armor": 26,
+        "spellblock": 30,
+        "attackrange": 525,
+        "attackdamage": 59,
+        "attackspeed": 0.656
+      }
+    },
+    "Trundle": {
+      "version": "12.23.1",
+      "id": "Trundle",
+      "key": "48",
+      "name": "Trundle",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 686,
+        "mp": 281,
+        "movespeed": 350,
+        "armor": 37,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 68,
+        "attackspeed": 0.6
+      }
+    },
+    "Tryndamere": {
+      "version": "12.23.1",
+      "id": "Tryndamere",
+      "key": "23",
+      "name": "Tryndamere",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 696,
+        "mp": 100,
+        "movespeed": 345,
+        "armor": 33,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 72,
+        "attackspeed": 0.67
+      }
+    },
+    "TwistedFate": {
+      "version": "12.23.1",
+      "id": "TwistedFate",
+      "key": "4",
+      "name": "Twisted Fate",
+      "tags": [
+        "Mage"
+      ],
+      "stats": {
+        "hp": 604,
+        "mp": 333,
+        "movespeed": 330,
+        "armor": 21,
+        "spellblock": 30,
+        "attackrange": 525,
+        "attackdamage": 52,
+        "attackspeed": 0.651
+      }
+    },
+    "Twitch": {
+      "version": "12.23.1",
+      "id": "Twitch",
+      "key": "29",
+      "name": "Twitch",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 682,
+        "mp": 287.2,
+        "movespeed": 330,
+        "armor": 27,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 59,
+        "attackspeed": 0.679
+      }
+    },
+    "Udyr": {
+      "version": "12.23.1",
+      "id": "Udyr",
+      "key": "77",
+      "name": "Udyr",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 664,
+        "mp": 271,
+        "movespeed": 350,
+        "armor": 34,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 62,
+        "attackspeed": 0.65
+      }
+    },
+    "Urgot": {
+      "version": "12.23.1",
+      "id": "Urgot",
+      "key": "6",
+      "name": "Urgot",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 655,
+        "mp": 340,
+        "movespeed": 330,
+        "armor": 36,
+        "spellblock": 32,
+        "attackrange": 350,
+        "attackdamage": 63,
+        "attackspeed": 0.625
+      }
+    },
+    "Varus": {
+      "version": "12.23.1",
+      "id": "Varus",
+      "key": "110",
+      "name": "Varus",
+      "tags": [
+        "Marksman",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 600,
+        "mp": 360,
+        "movespeed": 330,
+        "armor": 27,
+        "spellblock": 30,
+        "attackrange": 575,
+        "attackdamage": 62,
+        "attackspeed": 0.658
+      }
+    },
+    "Vayne": {
+      "version": "12.23.1",
+      "id": "Vayne",
+      "key": "67",
+      "name": "Vayne",
+      "tags": [
+        "Marksman",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 550,
+        "mp": 232,
+        "movespeed": 330,
+        "armor": 23,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 60,
+        "attackspeed": 0.658
+      }
+    },
+    "Veigar": {
+      "version": "12.23.1",
+      "id": "Veigar",
+      "key": "45",
+      "name": "Veigar",
+      "tags": [
+        "Mage"
+      ],
+      "stats": {
+        "hp": 575,
+        "mp": 490,
+        "movespeed": 340,
+        "armor": 21,
+        "spellblock": 32,
+        "attackrange": 550,
+        "attackdamage": 52,
+        "attackspeed": 0.625
+      }
+    },
+    "Velkoz": {
+      "version": "12.23.1",
+      "id": "Velkoz",
+      "key": "161",
+      "name": "Vel'Koz",
+      "tags": [
+        "Mage"
+      ],
+      "stats": {
+        "hp": 590,
+        "mp": 469,
+        "movespeed": 340,
+        "armor": 22,
+        "spellblock": 30,
+        "attackrange": 525,
+        "attackdamage": 55,
+        "attackspeed": 0.625
+      }
+    },
+    "Vex": {
+      "version": "12.23.1",
+      "id": "Vex",
+      "key": "711",
+      "name": "Vex",
+      "tags": [
+        "Mage"
+      ],
+      "stats": {
+        "hp": 590,
+        "mp": 490,
+        "movespeed": 335,
+        "armor": 23,
+        "spellblock": 28,
+        "attackrange": 550,
+        "attackdamage": 54,
+        "attackspeed": 0.669
+      }
+    },
+    "Vi": {
+      "version": "12.23.1",
+      "id": "Vi",
+      "key": "254",
+      "name": "Vi",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 655,
+        "mp": 295,
+        "movespeed": 340,
+        "armor": 30,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 63,
+        "attackspeed": 0.644
+      }
+    },
+    "Viego": {
+      "version": "12.23.1",
+      "id": "Viego",
+      "key": "234",
+      "name": "Viego",
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 630,
+        "mp": 10000,
+        "movespeed": 345,
+        "armor": 34,
+        "spellblock": 32,
+        "attackrange": 200,
+        "attackdamage": 57,
+        "attackspeed": 0.658
+      }
+    },
+    "Viktor": {
+      "version": "12.23.1",
+      "id": "Viktor",
+      "key": "112",
+      "name": "Viktor",
+      "tags": [
+        "Mage"
+      ],
+      "stats": {
+        "hp": 600,
+        "mp": 405,
+        "movespeed": 335,
+        "armor": 23,
+        "spellblock": 30,
+        "attackrange": 525,
+        "attackdamage": 53,
+        "attackspeed": 0.658
+      }
+    },
+    "Vladimir": {
+      "version": "12.23.1",
+      "id": "Vladimir",
+      "key": "8",
+      "name": "Vladimir",
+      "tags": [
+        "Mage"
+      ],
+      "stats": {
+        "hp": 607,
+        "mp": 2,
+        "movespeed": 330,
+        "armor": 27,
+        "spellblock": 30,
+        "attackrange": 450,
+        "attackdamage": 55,
+        "attackspeed": 0.658
+      }
+    },
+    "Volibear": {
+      "version": "12.23.1",
+      "id": "Volibear",
+      "key": "106",
+      "name": "Volibear",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 650,
+        "mp": 350,
+        "movespeed": 340,
+        "armor": 31,
+        "spellblock": 32,
+        "attackrange": 150,
+        "attackdamage": 60,
+        "attackspeed": 0.625
+      }
+    },
+    "Warwick": {
+      "version": "12.23.1",
+      "id": "Warwick",
+      "key": "19",
+      "name": "Warwick",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 620,
+        "mp": 280,
+        "movespeed": 335,
+        "armor": 33,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 65,
+        "attackspeed": 0.638
+      }
+    },
+    "Xayah": {
+      "version": "12.23.1",
+      "id": "Xayah",
+      "key": "498",
+      "name": "Xayah",
+      "tags": [
+        "Marksman"
+      ],
+      "stats": {
+        "hp": 660,
+        "mp": 340,
+        "movespeed": 330,
+        "armor": 25,
+        "spellblock": 30,
+        "attackrange": 525,
+        "attackdamage": 60,
+        "attackspeed": 0.625
+      }
+    },
+    "Xerath": {
+      "version": "12.23.1",
+      "id": "Xerath",
+      "key": "101",
+      "name": "Xerath",
+      "tags": [
+        "Mage"
+      ],
+      "stats": {
+        "hp": 596,
+        "mp": 459,
+        "movespeed": 340,
+        "armor": 22,
+        "spellblock": 30,
+        "attackrange": 525,
+        "attackdamage": 55,
+        "attackspeed": 0.625
+      }
+    },
+    "XinZhao": {
+      "version": "12.23.1",
+      "id": "XinZhao",
+      "key": "5",
+      "name": "Xin Zhao",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 640,
+        "mp": 274,
+        "movespeed": 345,
+        "armor": 35,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 63,
+        "attackspeed": 0.645
+      }
+    },
+    "Yasuo": {
+      "version": "12.23.1",
+      "id": "Yasuo",
+      "key": "157",
+      "name": "Yasuo",
+      "tags": [
+        "Fighter",
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 590,
+        "mp": 100,
+        "movespeed": 345,
+        "armor": 30,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 60,
+        "attackspeed": 0.697
+      }
+    },
+    "Yone": {
+      "version": "12.23.1",
+      "id": "Yone",
+      "key": "777",
+      "name": "Yone",
+      "tags": [
+        "Assassin",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 620,
+        "mp": 500,
+        "movespeed": 345,
+        "armor": 28,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 60,
+        "attackspeed": 0.625
+      }
+    },
+    "Yorick": {
+      "version": "12.23.1",
+      "id": "Yorick",
+      "key": "83",
+      "name": "Yorick",
+      "tags": [
+        "Fighter",
+        "Tank"
+      ],
+      "stats": {
+        "hp": 650,
+        "mp": 300,
+        "movespeed": 340,
+        "armor": 39,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 62,
+        "attackspeed": 0.625
+      }
+    },
+    "Yuumi": {
+      "version": "12.23.1",
+      "id": "Yuumi",
+      "key": "350",
+      "name": "Yuumi",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 550,
+        "mp": 400,
+        "movespeed": 330,
+        "armor": 25,
+        "spellblock": 25,
+        "attackrange": 500,
+        "attackdamage": 55,
+        "attackspeed": 0.625
+      }
+    },
+    "Zac": {
+      "version": "12.23.1",
+      "id": "Zac",
+      "key": "154",
+      "name": "Zac",
+      "tags": [
+        "Tank",
+        "Fighter"
+      ],
+      "stats": {
+        "hp": 685,
+        "mp": 0,
+        "movespeed": 340,
+        "armor": 33,
+        "spellblock": 32,
+        "attackrange": 175,
+        "attackdamage": 60,
+        "attackspeed": 0.736
+      }
+    },
+    "Zed": {
+      "version": "12.23.1",
+      "id": "Zed",
+      "key": "238",
+      "name": "Zed",
+      "tags": [
+        "Assassin"
+      ],
+      "stats": {
+        "hp": 654,
+        "mp": 200,
+        "movespeed": 345,
+        "armor": 32,
+        "spellblock": 32,
+        "attackrange": 125,
+        "attackdamage": 63,
+        "attackspeed": 0.651
+      }
+    },
+    "Zeri": {
+      "version": "12.23.1",
+      "id": "Zeri",
+      "key": "221",
+      "name": "Zeri",
+      "tags": [
+        "Marksman"
+      ],
+      "stats": {
+        "hp": 630,
+        "mp": 250,
+        "movespeed": 330,
+        "armor": 24,
+        "spellblock": 30,
+        "attackrange": 500,
+        "attackdamage": 53,
+        "attackspeed": 0.658
+      }
+    },
+    "Ziggs": {
+      "version": "12.23.1",
+      "id": "Ziggs",
+      "key": "115",
+      "name": "Ziggs",
+      "tags": [
+        "Mage"
+      ],
+      "stats": {
+        "hp": 606,
+        "mp": 480,
+        "movespeed": 325,
+        "armor": 22,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 54,
+        "attackspeed": 0.656
+      }
+    },
+    "Zilean": {
+      "version": "12.23.1",
+      "id": "Zilean",
+      "key": "26",
+      "name": "Zilean",
+      "tags": [
+        "Support",
+        "Mage"
+      ],
+      "stats": {
+        "hp": 574,
+        "mp": 452,
+        "movespeed": 335,
+        "armor": 24,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 52,
+        "attackspeed": 0.625
+      }
+    },
+    "Zoe": {
+      "version": "12.23.1",
+      "id": "Zoe",
+      "key": "142",
+      "name": "Zoe",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "stats": {
+        "hp": 630,
+        "mp": 425,
+        "movespeed": 340,
+        "armor": 21,
+        "spellblock": 30,
+        "attackrange": 550,
+        "attackdamage": 58,
+        "attackspeed": 0.625
+      }
+    },
+    "Zyra": {
+      "version": "12.23.1",
+      "id": "Zyra",
+      "key": "143",
+      "name": "Zyra",
+      "tags": [
+        "Mage",
+        "Support"
+      ],
+      "stats": {
+        "hp": 574,
+        "mp": 418,
+        "movespeed": 340,
+        "armor": 29,
+        "spellblock": 30,
+        "attackrange": 575,
+        "attackdamage": 53,
+        "attackspeed": 0.625
+      }
+    }
+  }
+}
